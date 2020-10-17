@@ -2,15 +2,15 @@
 
 namespace UnitTesting.Simple.Tests
 {
-    public class MainClass
+   
+  public class MainClass
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             try
             {
                 Console.ReadLine();
-                Console.WriteLine("Starting");
-                SimpleParserTests.TestReturnsZeroWhenEmptyString();
+                Console.WriteLine("Starting");        SimpleParserTests.TestReturnsZeroWhenEmptyString();
             }
             catch (Exception e)
             {

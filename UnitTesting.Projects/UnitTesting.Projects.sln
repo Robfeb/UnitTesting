@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting.Simple", "UnitT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting.Simple.Tests", "UnitTesting.Simple.Tests\UnitTesting.Simple.Tests.csproj", "{5E8C3BB9-5D26-492E-9A79-54E94C48E6C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting.LogAnalyzer", "UnitTesting.LogAnalyzer\UnitTesting.LogAnalyzer.csproj", "{B7950813-CABA-488C-83C0-92A47A14CDA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting.LogAnalyzer.Tests", "UnitTesting.LogAnalyzer.Tests\UnitTesting.LogAnalyzer.Tests.csproj", "{8FCBDE96-F492-461A-9630-7C8F3E5D4481}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +23,13 @@ Global
 		{5E8C3BB9-5D26-492E-9A79-54E94C48E6C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E8C3BB9-5D26-492E-9A79-54E94C48E6C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E8C3BB9-5D26-492E-9A79-54E94C48E6C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7950813-CABA-488C-83C0-92A47A14CDA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7950813-CABA-488C-83C0-92A47A14CDA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7950813-CABA-488C-83C0-92A47A14CDA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7950813-CABA-488C-83C0-92A47A14CDA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FCBDE96-F492-461A-9630-7C8F3E5D4481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FCBDE96-F492-461A-9630-7C8F3E5D4481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FCBDE96-F492-461A-9630-7C8F3E5D4481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FCBDE96-F492-461A-9630-7C8F3E5D4481}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
